@@ -1,0 +1,51 @@
+ProductID,Category,SubCategory,ProductName
+P001,Office Supplies,C,Product 1
+P002,Office Supplies,C,Product 2
+P003,Furniture,B,Product 3
+P004,Furniture,A,Product 4
+P005,Technology,A,Product 5
+P006,Furniture,B,Product 6
+P007,Office Supplies,A,Product 7
+P008,Office Supplies,B,Product 8
+P009,Furniture,B,Product 9
+P010,Office Supplies,C,Product 10
+P011,Office Supplies,B,Product 11
+P012,Furniture,C,Product 12
+P013,Furniture,A,Product 13
+P014,Office Supplies,A,Product 14
+P015,Office Supplies,A,Product 15
+P016,Office Supplies,A,Product 16
+P017,Technology,C,Product 17
+P018,Technology,A,Product 18
+P019,Technology,B,Product 19
+P020,Furniture,B,Product 20
+P021,Technology,B,Product 21
+P022,Furniture,C,Product 22
+P023,Furniture,A,Product 23
+P024,Technology,A,Product 24
+P025,Technology,A,Product 25
+P026,Technology,C,Product 26
+P027,Office Supplies,B,Product 27
+P028,Technology,B,Product 28
+P029,Office Supplies,A,Product 29
+P030,Furniture,B,Product 30
+P031,Office Supplies,B,Product 31
+P032,Technology,C,Product 32
+P033,Furniture,C,Product 33
+P034,Furniture,C,Product 34
+P035,Furniture,C,Product 35
+P036,Office Supplies,A,Product 36
+P037,Technology,C,Product 37
+P038,Furniture,B,Product 38
+P039,Furniture,A,Product 39
+P040,Furniture,B,Product 40
+P041,Office Supplies,B,Product 41
+P042,Office Supplies,B,Product 42
+P043,Technology,C,Product 43
+P044,Office Supplies,C,Product 44
+P045,Furniture,A,Product 45
+P046,Technology,A,Product 46
+P047,Furniture,C,Product 47
+P048,Furniture,B,Product 48
+P049,Office Supplies,A,Product 49
+P050,Technology,C,Product 50
